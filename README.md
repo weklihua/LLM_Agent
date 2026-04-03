@@ -11,7 +11,7 @@ A lightweight AI tool-using agent built with **Streamlit**, **OpenAI function ca
 ## Screenshots
 
 ### Home
-![Home]()
+![Home](./screenshots/home.png)
 
 ### Calculator tool call
 ![Calculator demo](./screenshots/calculator-demo.png)
